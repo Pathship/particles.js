@@ -1,5 +1,7 @@
 ## particles.js
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/875216800aa543f3bc621ed24ee3b389)](https://www.codacy.com/app/mrdrumhead/particles-js?utm_source=github.com&utm_medium=referral&utm_content=Pathship/particles.js&utm_campaign=badger)
+
 ### A lightweight JavaScript library for creating particles.
 
 ------------------------------
